@@ -1,0 +1,26 @@
+[
+{
+  "directory": "/Users/heberdiamond/cppProjects/PegQt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/Users/heberdiamond/cppProjects/PegQt/PegQt_autogen/include -I/Users/heberdiamond/cppProjects/PegQt/src/controller -I/Users/heberdiamond/cppProjects/PegQt/src/helper -I/Users/heberdiamond/cppProjects/PegQt/src/model -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -std=gnu++2b -arch arm64 -o CMakeFiles/PegQt.dir/PegQt_autogen/mocs_compilation.cpp.o -c /Users/heberdiamond/cppProjects/PegQt/PegQt_autogen/mocs_compilation.cpp",
+  "file": "/Users/heberdiamond/cppProjects/PegQt/PegQt_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/PegQt.dir/PegQt_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/heberdiamond/cppProjects/PegQt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/Users/heberdiamond/cppProjects/PegQt/PegQt_autogen/include -I/Users/heberdiamond/cppProjects/PegQt/src/controller -I/Users/heberdiamond/cppProjects/PegQt/src/helper -I/Users/heberdiamond/cppProjects/PegQt/src/model -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -std=gnu++2b -arch arm64 -o CMakeFiles/PegQt.dir/src/controller/main.cpp.o -c /Users/heberdiamond/cppProjects/PegQt/src/controller/main.cpp",
+  "file": "/Users/heberdiamond/cppProjects/PegQt/src/controller/main.cpp",
+  "output": "CMakeFiles/PegQt.dir/src/controller/main.cpp.o"
+},
+{
+  "directory": "/Users/heberdiamond/cppProjects/PegQt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/Users/heberdiamond/cppProjects/PegQt/PegQt_autogen/include -I/Users/heberdiamond/cppProjects/PegQt/src/controller -I/Users/heberdiamond/cppProjects/PegQt/src/helper -I/Users/heberdiamond/cppProjects/PegQt/src/model -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -std=gnu++2b -arch arm64 -o CMakeFiles/PegQt.dir/src/controller/pegwindow.cpp.o -c /Users/heberdiamond/cppProjects/PegQt/src/controller/pegwindow.cpp",
+  "file": "/Users/heberdiamond/cppProjects/PegQt/src/controller/pegwindow.cpp",
+  "output": "CMakeFiles/PegQt.dir/src/controller/pegwindow.cpp.o"
+},
+{
+  "directory": "/Users/heberdiamond/cppProjects/PegQt",
+  "command": "/usr/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -I/Users/heberdiamond/cppProjects/PegQt/PegQt_autogen/include -I/Users/heberdiamond/cppProjects/PegQt/src/controller -I/Users/heberdiamond/cppProjects/PegQt/src/helper -I/Users/heberdiamond/cppProjects/PegQt/src/model -isystem /opt/homebrew/opt/qt/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/opt/qt/lib -isystem /opt/homebrew/opt/qt/lib/QtCore.framework/Headers -isystem /opt/homebrew/opt/qt/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/opt/qt/include -isystem /opt/homebrew/opt/qt/lib/QtGui.framework/Headers -std=gnu++2b -arch arm64 -o CMakeFiles/PegQt.dir/src/model/pegwidget.cpp.o -c /Users/heberdiamond/cppProjects/PegQt/src/model/pegwidget.cpp",
+  "file": "/Users/heberdiamond/cppProjects/PegQt/src/model/pegwidget.cpp",
+  "output": "CMakeFiles/PegQt.dir/src/model/pegwidget.cpp.o"
+}
+]

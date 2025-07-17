@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Mac",
+            "includePath": [
+                "${default}",
+                "${workspaceFolder}/src/helper",
+                "${workspaceFolder}/src/controller",
+                "${workspaceFolder}/src/model",
+                "/opt/homebrew/opt/qt/include",
+                "/opt/homebrew/opt/qt/include/QtWidgets"
+            ],
+            "defines": [],
+            "cppStandard": "c++23",
+            "intelliSenseMode": "macos-clang-arm64"
+        }
+    ],
+    "version": 4
+}

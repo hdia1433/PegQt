@@ -1,0 +1,5 @@
+/Users/heberdiamond/cppProjects/PegQt/build/CMakeFiles/PegQt.dir
+/Users/heberdiamond/cppProjects/PegQt/build/CMakeFiles/edit_cache.dir
+/Users/heberdiamond/cppProjects/PegQt/build/CMakeFiles/rebuild_cache.dir
+/Users/heberdiamond/cppProjects/PegQt/build/CMakeFiles/PegQt_autogen_timestamp_deps.dir
+/Users/heberdiamond/cppProjects/PegQt/build/CMakeFiles/PegQt_autogen.dir
