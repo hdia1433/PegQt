@@ -15,7 +15,7 @@ namespace peg
         QVBoxLayout* mainLayout;
         QVBoxLayout* buttonLayout;
 
-        QLabel* loseLabel;
+        QLabel* winLabel;
         QPushButton* playAgain;
         QPushButton* mainMenu;
         QPushButton* quit;

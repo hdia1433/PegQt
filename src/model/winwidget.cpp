@@ -3,7 +3,7 @@
 
 namespace peg
 {
-    WinWidget::WinWidget(QWidget* parent):QWidget{parent}, mainLayout(new QVBoxLayout), buttonLayout(new QVBoxLayout), loseLabel(new QLabel("You Win!")), playAgain(new QPushButton("Play Again")), mainMenu(new QPushButton("Main Menu")), quit(new QPushButton("Quit"))
+    WinWidget::WinWidget(QWidget* parent):QWidget{parent}, mainLayout(new QVBoxLayout), buttonLayout(new QVBoxLayout), winLabel(new QLabel("You Win!")), playAgain(new QPushButton("Play Again")), mainMenu(new QPushButton("Main Menu")), quit(new QPushButton("Quit"))
     {
         setupLayout();
         setupSignals();
@@ -13,11 +13,13 @@ namespace peg
     {
         setLayout(mainLayout);
 
-        QFont font = loseLabel->font();
+        QFont font = winLabel->font();
         font.setPointSize(100);
-        loseLabel->setFont(font);
+        winLabel->setFont(font);
 
-        mainLayout->addWidget(loseLabel);
+        winLabel->setAlignment(Qt::AlignCenter);
+
+        mainLayout->addWidget(winLabel);
         mainLayout->addLayout(buttonLayout);
 
         buttonLayout->addStretch();

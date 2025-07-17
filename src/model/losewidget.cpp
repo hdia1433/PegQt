@@ -17,6 +17,8 @@ namespace peg
         QFont font = loseLabel->font();
         font.setPointSize(100);
         loseLabel->setFont(font);
+        
+        loseLabel->setAlignment(Qt::AlignCenter);
 
         mainLayout->addWidget(loseLabel);
         mainLayout->addLayout(buttonLayout);
